@@ -1,6 +1,3 @@
-<img width="964" height="277" alt="{A7733D36-735B-4697-92B2-F01B652746A4}" src="https://github.com/user-attachments/assets/b09d8b27-b019-4d4e-8221-87356ad55420" />
-
-
 # Brief history of Artificial Intelligence (AI)
 <img width="1359" height="644" alt="{4F556D9C-A951-4663-9B67-8568417116B9}" src="https://github.com/user-attachments/assets/6cf669cf-ccad-4e6a-80db-d2e947c685c4" />
 
