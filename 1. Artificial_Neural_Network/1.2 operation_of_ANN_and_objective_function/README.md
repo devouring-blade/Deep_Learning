@@ -7,6 +7,7 @@
 
 # understanding cross entropy from the perspective of information theory
 <img width="1558" height="755" alt="{862300D6-67EF-4FB3-B8FA-44B118097635}" src="https://github.com/user-attachments/assets/813f6a13-23a1-4439-a267-7a973106e48a" />
+<img width="1569" height="710" alt="{8FBF77B8-3A6F-4534-9CF5-72F0CAA2960F}" src="https://github.com/user-attachments/assets/0b77e829-25cd-4fed-a655-140fddd48069" />
 
 
 
