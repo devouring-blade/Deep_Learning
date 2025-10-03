@@ -6,7 +6,8 @@
 <img width="1574" height="703" alt="{E1AE85C3-81AE-4BEF-85EE-54202CCE5330}" src="https://github.com/user-attachments/assets/53754c5d-11e9-466a-a5a2-61cc0f908569" />
 
 # understanding cross entropy from the perspective of information theory
-<img width="1577" height="761" alt="{C41C25CC-669E-456E-8759-42C16D4B5BC7}" src="https://github.com/user-attachments/assets/fdd099c6-420f-492f-83a2-c418b93ba90e" />
+<img width="1558" height="755" alt="{862300D6-67EF-4FB3-B8FA-44B118097635}" src="https://github.com/user-attachments/assets/813f6a13-23a1-4439-a267-7a973106e48a" />
+
 
 
 
