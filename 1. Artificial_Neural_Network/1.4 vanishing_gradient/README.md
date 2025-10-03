@@ -7,8 +7,11 @@
 # types of gradient descent
 <img width="1389" height="685" alt="{A7E4A324-F012-4E00-83DA-E0131F7A14E4}" src="https://github.com/user-attachments/assets/4fca32ae-d788-4773-a0b8-99afb26e670d" />
 
-# 
-<img width="1256" height="636" alt="{AF1E84A7-DD3C-478C-B91C-2E90375E5CF3}" src="https://github.com/user-attachments/assets/b6632ef5-34d9-4a37-ad31-d9ed9f8ccaf4" />
+# data normalization and shuffling
+<img width="1356" height="686" alt="{ED69C103-F606-44EA-B46E-628C19F98866}" src="https://github.com/user-attachments/assets/8d2e0d26-b9a8-4e22-a598-741ed403bee7" />
+
+# matrix multiplication and GPU
+<img width="1358" height="680" alt="{3E6D034D-47BA-477E-8571-73FEA5E167C1}" src="https://github.com/user-attachments/assets/dd64514c-e769-426a-b16a-5950a559b828" />
 
 
 
