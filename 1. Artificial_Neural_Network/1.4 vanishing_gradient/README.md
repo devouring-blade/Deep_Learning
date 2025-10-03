@@ -7,6 +7,8 @@
 # types of gradient descent
 <img width="1389" height="685" alt="{A7E4A324-F012-4E00-83DA-E0131F7A14E4}" src="https://github.com/user-attachments/assets/4fca32ae-d788-4773-a0b8-99afb26e670d" />
 
+# 
+<img width="1256" height="636" alt="{AF1E84A7-DD3C-478C-B91C-2E90375E5CF3}" src="https://github.com/user-attachments/assets/b6632ef5-34d9-4a37-ad31-d9ed9f8ccaf4" />
 
 
 
