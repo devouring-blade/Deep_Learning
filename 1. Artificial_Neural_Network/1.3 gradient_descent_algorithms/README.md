@@ -8,3 +8,7 @@ This is a simplified example illustrating the behavior of the loss function when
 
 Similar to machine learning in general, artificial neural networks also suffer from the issue of local minima. This problem has not been fundamentally solved; however, methods to further mitigate it are still being actively developed. We will explore this topic in more detail in a later section.
 
+
+# finding gradients
+<img width="1576" height="749" alt="{DC067FA5-5ED5-44EA-B3E4-0A5D135AC274}" src="https://github.com/user-attachments/assets/2c845c28-629c-455e-9442-7c8a6fc37133" />
+
