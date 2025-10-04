@@ -1,4 +1,5 @@
-# implement an ANN using numerical differentiation and gradient descent
+# implement an ANN using numerical differentiation and gradient descent for binary classification
+
 ## numerical differentiation and gradient descent
 we compute the gradient of the loss function with respect to each parameter via numerical differentiation. and then we use gradient descent to update all parameters
 
@@ -10,6 +11,11 @@ To calculate the gradient accurately, you must use automatic differentiation. Ho
 Gradient descent with automatic differentiation will be discussed in detail in the Backpropagation part.
 
 <img width="1215" height="500" alt="{6D6B3199-AC4A-4EC2-890F-38C946888A3E}" src="https://github.com/user-attachments/assets/d193f791-24e7-4d14-bd2e-3274374c25d7" />
+
+<img width="1213" height="583" alt="{B28DDCEB-0270-4A5F-97A2-6C201D2C656E}" src="https://github.com/user-attachments/assets/156caec5-7e39-41e8-a287-40dce2185601" />
+
+<img width="1214" height="581" alt="{5E0AD020-3141-4988-AB0C-790E0134C821}" src="https://github.com/user-attachments/assets/05e1e245-c9cc-40a8-b922-88cb6b6a546c" />
+
 
 
 
