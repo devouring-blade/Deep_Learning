@@ -15,5 +15,10 @@ Gradient descent with automatic differentiation will be discussed in detail in t
 
 <img width="1349" height="644" alt="{AB494E8C-E824-46B8-84CE-FAD73BEDAEE1}" src="https://github.com/user-attachments/assets/787ce498-95c3-4f7d-b8d0-57ae5ee3be51" />
 
+## two-layered Perceptron
+<img width="1348" height="641" alt="{5802E153-78E4-4DF3-A266-FB9C4CE909A3}" src="https://github.com/user-attachments/assets/4b9f7bb7-4153-471f-ac56-4b94f218f32b" />
+
+<img width="1344" height="636" alt="{C27E9D28-06A4-4404-A5F9-505322C56FDC}" src="https://github.com/user-attachments/assets/24a3e8be-2e52-4aba-8c9e-1a47e2b5939b" />
+
 
 
