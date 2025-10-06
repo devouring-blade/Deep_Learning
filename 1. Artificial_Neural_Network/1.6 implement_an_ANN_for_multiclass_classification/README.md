@@ -1,4 +1,4 @@
-# implement an ANN using numerical differentiation and gradient descent for muliclass classification
+# implement an ANN using numerical differentiation and gradient descent for multiclass classification
 
 ## multiclass classification
 
