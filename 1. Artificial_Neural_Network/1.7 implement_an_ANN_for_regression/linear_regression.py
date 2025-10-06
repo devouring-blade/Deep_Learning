@@ -3,6 +3,8 @@ from matplotlib import pyplot as plt
 from sklearn.model_selection import train_test_split
 from gradient_descent import gradient_descent
 
+np.random.seed(42)
+
 # Generate training data set
 # y = 0.5x + 0.3 + noise
 x = np.random.normal(0.0, 0.5, (1000, 1))
