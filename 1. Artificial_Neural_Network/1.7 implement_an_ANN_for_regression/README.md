@@ -6,4 +6,13 @@ Mean squared error (MSE) is used as the loss function.
 
 <img width="1311" height="549" alt="{E597754D-FE13-4256-A899-7CF6A5CEE51B}" src="https://github.com/user-attachments/assets/df5b835b-7504-4ac8-b471-05dfc14b0fec" />
 
+## single-layered Perceptron
+Create a single-layered ANN model and perform the linear regression using numerical differentiation and gradient descent.
+To calculate the gradient accurately, you must use automatic differentiation. However, here we use numerical differentiation to approximate the gradient.
+Gradient descent with automatic differentiation will be discussed in detail in the backpropagation part later.
+
+<img width="1342" height="563" alt="{F0438AAD-129F-4283-88D1-B05F835D2541}" src="https://github.com/user-attachments/assets/d0303fbd-3505-4180-bedb-5719406b4ebf" />
+
+
+
 
