@@ -13,6 +13,7 @@ Gradient descent with automatic differentiation will be discussed in detail in t
 
 <img width="1342" height="563" alt="{F0438AAD-129F-4283-88D1-B05F835D2541}" src="https://github.com/user-attachments/assets/d0303fbd-3505-4180-bedb-5719406b4ebf" />
 
+<img width="1349" height="644" alt="{AB494E8C-E824-46B8-84CE-FAD73BEDAEE1}" src="https://github.com/user-attachments/assets/787ce498-95c3-4f7d-b8d0-57ae5ee3be51" />
 
 
 
