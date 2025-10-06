@@ -1,8 +1,9 @@
 import numpy as np
 from matplotlib import pyplot as plt
 from sklearn.model_selection import train_test_split
-
 from gradient_descent import gradient_descent
+
+np.random.seed(42)
 
 # Generate training data set
 x = np.random.random((1000, 1))
