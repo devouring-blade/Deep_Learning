@@ -27,8 +27,12 @@ Gradient descent with automatic differentiation will be discussed in detail in t
 
 <img width="1372" height="658" alt="{34DA4203-E68B-4E66-91E8-2AB0AA2077CB}" src="https://github.com/user-attachments/assets/554eda7e-d2bc-46aa-a23a-296f424a146e" />
 
+## two-layred Perceptron with linear activation function 
+Even with a multi-layer perceptron, nonlinear problems cannot be solved if a linear activation function is used in the hidden layers.
+Let's check this with an experiment.
+just remove ReLU in predict function.
 
-
+<img width="1376" height="595" alt="{0A7EA4EA-3FC6-4654-B499-CD7C715F3659}" src="https://github.com/user-attachments/assets/95bc9ace-6f0f-4d5b-9f85-5dedbab4c91a" />
 
 
 
