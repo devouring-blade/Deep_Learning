@@ -56,13 +56,9 @@ def train(x_train, y_train, x_val, y_val, epochs, batch_size):
     train_loss = []
     val_loss = []
     for epoch in range(epochs):
-        # measure the losses during the training
-
-        # loss for training data
-        train_loss.append(loss(y_train, predict(x_train)))
-
-        # loss for val data
-        val_loss.append(loss(y_val, predict(x_val)))
+        # measure the losses during training
+        train_loss.append(loss(y, predict(x)))      # train loss
+        val_loss.append(loss(y_val, predict(x_val)))    # val loss
 
         # perform training using mini-batch gradient descent
         for batch in range(int(x_train.shape[0] / batch_size)):
