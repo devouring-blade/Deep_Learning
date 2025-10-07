@@ -15,3 +15,5 @@ RMSprop improves the disadvantage of Adagrad that the learning rate decays too q
 
 <img width="1858" height="744" alt="{40854B28-C4AD-4AD5-8B1F-BF2216837F2A}" src="https://github.com/user-attachments/assets/ab7ced7b-d716-4411-9b18-19324dce0971" />
 
+
+# Adadelta
