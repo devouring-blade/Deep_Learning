@@ -47,6 +47,10 @@ Since the RMS of the previous gradients is already represented in the denominato
 
 <img width="1010" height="417" alt="{45610CB3-470F-4DE9-ADD2-5082E482C892}" src="https://github.com/user-attachments/assets/8a963118-2210-4c77-853a-6db7dc710a2d" />
 
+### example
+<img width="1853" height="839" alt="{E4C437E6-E9D0-42ED-9594-26DDB738C67F}" src="https://github.com/user-attachments/assets/525a21cb-21d3-4128-8479-bcd8b17d470f" />
+
+
 
 
 
