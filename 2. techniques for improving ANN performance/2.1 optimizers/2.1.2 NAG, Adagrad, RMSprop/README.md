@@ -10,4 +10,5 @@ NAG improves the disadvantage of the momentum optimizer, which may pass the targ
 
 when w is far away from the target point, it can quickly approach the target point due to the momentum affect. and when w approaches the target point, it can stably reach the target point without deviating from the target point due to NAG effect
 
-<img width="1716" height="565" alt="{326234FE-7A45-4057-9680-88FB4EE034F4}" src="https://github.com/user-attachments/assets/d1e03cce-d97e-446f-8a5e-c20ac01e65f7" />
+<img width="1733" height="547" alt="{BEF6CDCE-D787-476A-9D14-BA5C420FCBB9}" src="https://github.com/user-attachments/assets/a6efc408-c77c-4f7c-8fd1-ef0f2710ac1e" />
+
