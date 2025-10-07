@@ -17,3 +17,15 @@ RMSprop improves the disadvantage of Adagrad that the learning rate decays too q
 
 
 # Adadelta
+Adadelta is an optimization algorithm proposed by Matthew D. Zeiler in a 2012 paper.
+
+<img width="1884" height="927" alt="{166F126F-181F-4E3A-BF1C-92CD575EF198}" src="https://github.com/user-attachments/assets/695507dd-46d4-45fd-a7f6-dc56aff55995" />
+
+In the ADAGRAD method the denominator accumulates the squared gradients from each iteration starting at the beginning of training. Since each term is positive, this accumulated sum continues to grow throughout training, effectively shrinking the learning rate on each dimension. After many iterations, this learning rate will become infinitesimally small.
+
+### idea 1: accumulate over window
+Instead of accumulating the sum of squared gradients over all time, we restricted the window of past gradients that are accumulated to be some fixed size T (instead of size t where t is the current iteration as in ADAGRAD). With this windowed accumulation the denominator of ADAGRAD cannot accumulate to infinity and instead becomes a local estimate using recent gradients. This ensures that learning continues to make progress even after many iterations of updates have been done. Since storing T previous squared gradients is inefficient, our methods implements this accumulation as an exponentially decaying average of the squared gradients.
+
+<img width="1779" height="337" alt="{76CC00DD-3F63-44EF-A05D-03FBCB4E7E7E}" src="https://github.com/user-attachments/assets/7376befb-eb35-433c-9af1-9fa0c013413b" />
+
+
