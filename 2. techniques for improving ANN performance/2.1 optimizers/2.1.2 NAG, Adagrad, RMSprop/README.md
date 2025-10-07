@@ -7,6 +7,7 @@ When determining 𝑤𝑡+1, the momentum optimizer calculates the local gradien
 <img width="1846" height="708" alt="{6E1ABACE-9A99-4922-BAF5-260E0D4C047F}" src="https://github.com/user-attachments/assets/7702bbae-29b0-465d-839e-93434a91c423" />
 
 
+
 NAG improves the disadvantage of the momentum optimizer, which may pass the target near the target point.
 
 when w is far away from the target point, it can quickly approach the target point due to the momentum affect. and when w approaches the target point, it can stably reach the target point without deviating from the target point due to NAG effect
