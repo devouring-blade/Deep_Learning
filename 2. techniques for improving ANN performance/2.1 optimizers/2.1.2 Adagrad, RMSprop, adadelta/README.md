@@ -28,7 +28,7 @@ Instead of accumulating the sum of squared gradients over all time, we restricte
 
 <img width="1779" height="337" alt="{76CC00DD-3F63-44EF-A05D-03FBCB4E7E7E}" src="https://github.com/user-attachments/assets/7376befb-eb35-433c-9af1-9fa0c013413b" />
 
-n fact, this is essentially the same as the RMSProp optimizer mentioned above. It was not published in a paper, but was proposed by Geoffrey Hinton in his Coursera lecture. Perhaps the author of the paper was thinking the same at that time.
+In fact, this is essentially the same as the RMSProp optimizer mentioned above. It was not published in a paper, but was proposed by Geoffrey Hinton in his Coursera lecture. Perhaps the author of the paper was thinking the same at that time.
 
 
 
