@@ -18,7 +18,8 @@ however, near the target point, we need to approach the target point slowly, but
 
 <img width="1863" height="568" alt="{A73DD4D3-95D3-4E67-80B3-A7A194144EA2}" src="https://github.com/user-attachments/assets/413e358e-0489-4620-9b04-e2bfda10db8e" />
 
-# zig-zag oscillation
+
+
 <img width="1684" height="875" alt="{DFCD6859-AE87-4C0F-AB0E-948D6E77B89F}" src="https://github.com/user-attachments/assets/574e3c0b-46f7-4317-ba72-345060985589" />
 
 # Nesterov Accelerated Gradient (NAG)
