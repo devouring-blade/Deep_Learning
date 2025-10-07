@@ -5,7 +5,13 @@ disadvantage, such as being easily trapped in local minima or having an oscillat
 <img width="1876" height="676" alt="{E76904C2-EBAA-4379-A34F-3016117188CF}" src="https://github.com/user-attachments/assets/da50a87f-fbde-4102-8171-3b1f64c40535" />
 
 # momentum optimizer
-<img width="1024" height="490" alt="image" src="https://github.com/user-attachments/assets/27a6ba2d-bcef-4909-bf04-87f3ffc55f35" />
+the momentum optimizer adds momentum to gradient descent. it adds the current gradient to the previous momentum. this is the momentum vector. the vector remembers past gradients.
+the parameter w is updated in the direction where the local gradient and previous momentum are combined.
+this will accelerate the gradient descent towards the target point and dampen the oscillations.
+beta is a hyper-parameter and is specified as a value between 0 and 1. the inertial of the distant past gradully weakens, and the inertial of the recent past takes on greater weight.
+due to inertial, the momentum optimizer may pass through a shallow local minimum or may take a different route.
+however, near the target point, we need to approach the target point slowly, but we can pass the target point due to acceleration. of course, in the next iteration we will return towards the target point.
 
-<img width="1846" height="880" alt="{D47EF074-D03A-47A3-A28F-071224AACF88}" src="https://github.com/user-attachments/assets/2c06388c-563b-47b2-81c9-042fb0fa339d" />
+<img width="1863" height="568" alt="{A73DD4D3-95D3-4E67-80B3-A7A194144EA2}" src="https://github.com/user-attachments/assets/413e358e-0489-4620-9b04-e2bfda10db8e" />
+
 
