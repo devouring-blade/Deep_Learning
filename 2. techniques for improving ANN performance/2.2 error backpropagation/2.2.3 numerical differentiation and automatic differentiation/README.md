@@ -14,6 +14,10 @@ example: update an ANN
 
 
 # automatic differentiation 
+
+<img width="1804" height="719" alt="{62E5B9CC-27FE-444C-BDA2-7823AB32FC13}" src="https://github.com/user-attachments/assets/c1d624a7-bdfe-46b7-abce-a30e609639a1" />
+
+
 ## forward derivative trace
 
 <img width="1840" height="828" alt="{DF1FC5F6-2CE0-42C3-8D12-E58A22DF8D49}" src="https://github.com/user-attachments/assets/0ad97cb7-0a49-406e-af66-2e5c172d6acf" />
