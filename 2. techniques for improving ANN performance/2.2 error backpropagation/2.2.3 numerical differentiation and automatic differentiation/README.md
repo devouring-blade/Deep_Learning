@@ -6,6 +6,7 @@
 ## numerical differentiation 
 <img width="1833" height="802" alt="{3F99AEAC-5248-4D8F-A88D-4E1EEA2389E5}" src="https://github.com/user-attachments/assets/3c926ba3-b1d0-4ea5-8810-49b4d6075ee8" />
 
-example: update a ANN
+
+example: update an ANN
 
 <img width="1850" height="940" alt="{8EA85AF3-B394-4B3B-86C9-19773F89242D}" src="https://github.com/user-attachments/assets/e3c33347-5c81-41af-9689-f4d110cf3514" />
