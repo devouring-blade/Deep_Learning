@@ -8,3 +8,8 @@
 
 ### result
 <img width="1861" height="854" alt="{C88510D6-ADD0-4FDB-8299-AA0D256E9F71}" src="https://github.com/user-attachments/assets/4d562110-ef87-4142-8a52-146aac181ea4" />
+
+
+# interpretation 
+<img width="1849" height="867" alt="{26534FF5-3C51-4B79-B7A6-3B8F54E384AC}" src="https://github.com/user-attachments/assets/e3f6da91-b9a5-449c-acd8-2062007bb0b5" />
+
