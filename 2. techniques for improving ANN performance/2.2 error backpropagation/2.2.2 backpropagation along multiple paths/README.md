@@ -8,5 +8,8 @@
 <img width="1865" height="927" alt="{2CDB0469-2DA0-4A1A-B93D-26043265F940}" src="https://github.com/user-attachments/assets/7a0e8ff1-4353-4515-a716-8b28f8c638e2" />
 
 
+# activation function and vanishing gradient
+
+<img width="1862" height="945" alt="{A7161C87-741A-4C89-8930-185509F5CF7B}" src="https://github.com/user-attachments/assets/2e4648c9-2ceb-44c8-8501-a707aa77e1fe" />
 
 
