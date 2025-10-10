@@ -21,7 +21,8 @@ however, near the target point, we need to approach the target point slowly, but
 
 
 
-<img width="1684" height="875" alt="{DFCD6859-AE87-4C0F-AB0E-948D6E77B89F}" src="https://github.com/user-attachments/assets/574e3c0b-46f7-4317-ba72-345060985589" />
+<img width="1174" height="609" alt="{FAF8E841-AE68-4EF7-A864-DF59BF3F8D65}" src="https://github.com/user-attachments/assets/62a190bb-452e-460f-8906-398f5862191b" />
+
 
 # Nesterov Accelerated Gradient (NAG)
 The momentum optimizer has a disadvantage near the target point that it may pass the target point due to inertia. NAG is an improvement on this.
