@@ -2,7 +2,8 @@
 gradient descent is the most basic optimizer and has the advantage of being easy to understand and implement. however, this has some 
 disadvantage, such as being easily trapped in local minima or having an oscillating path to the target point.
 
-<img width="1876" height="676" alt="{E76904C2-EBAA-4379-A34F-3016117188CF}" src="https://github.com/user-attachments/assets/da50a87f-fbde-4102-8171-3b1f64c40535" />
+<img width="1289" height="458" alt="{053CC63B-2159-4F4F-A1B4-62ACBAE43043}" src="https://github.com/user-attachments/assets/b2198c95-c355-4c7b-8acb-ef37b3a2408d" />
+
 
 # Momentum
 the momentum optimizer adds momentum to gradient descent. it adds the current gradient to the previous momentum. this is the momentum vector. the vector remembers past gradients.
