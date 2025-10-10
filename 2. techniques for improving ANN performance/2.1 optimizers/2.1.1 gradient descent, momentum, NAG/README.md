@@ -20,9 +20,7 @@ however, near the target point, we need to approach the target point slowly, but
 
 <img width="1863" height="568" alt="{A73DD4D3-95D3-4E67-80B3-A7A194144EA2}" src="https://github.com/user-attachments/assets/413e358e-0489-4620-9b04-e2bfda10db8e" />
 
-
-
-<img width="1174" height="609" alt="{FAF8E841-AE68-4EF7-A864-DF59BF3F8D65}" src="https://github.com/user-attachments/assets/62a190bb-452e-460f-8906-398f5862191b" />
+<img width="1235" height="659" alt="{BB0BF55E-0CCB-48A3-9F21-5F0237AA126B}" src="https://github.com/user-attachments/assets/81befdad-4517-4eff-8817-9349d39c80c1" />
 
 
 # Nesterov Accelerated Gradient (NAG)
