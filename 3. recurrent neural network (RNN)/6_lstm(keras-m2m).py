@@ -23,7 +23,7 @@ n_hidden = 50
 
 x_input = Input(batch_shape= (None, n_step, n_feat))
 h = LSTM(n_hidden, return_sequences= True)(x_input)
-y_output = TimeDistributed(Dense(n_output)(h))
+y_output = TimeDistributed(Dense(n_output))(h)
 model = Model(x_input, y_output)
 model.compile(loss= "mse", optimizer= Adam(learning_rate= 0.001))
 model.summary()
