@@ -1,3 +1,6 @@
+# Once ANN training is complete, Wh, bh, Wo, and bo are determined and the network is ready to make predictions.
+# The computational process of ANN is mainly matrix multiplication.
+
 import numpy as np
 
 def sigmoid(x): return 1. / (1. + np.exp(-x))
