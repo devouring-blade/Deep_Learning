@@ -12,7 +12,7 @@ opt = []
 opt_name = ["SGD", "Momentum", "NAG", "Adagrad",
             "RMSprop", "Adadelta", "Adam"]
 
-opt.append(op.SGD(learning_rate=0.8, momentum=0))
+opt.append(op.SGD(learning_rate=0.8, momentum=0.0))
 opt.append(op.SGD(learning_rate=0.8, momentum=0.2))
 opt.append(op.SGD(learning_rate=0.1, momentum=0.2, nesterov=True))
 opt.append(op.Adagrad(learning_rate=0.8))
