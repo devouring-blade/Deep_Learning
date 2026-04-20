@@ -37,6 +37,7 @@ for i in range(len(grads)):
 for p in parameters:
     print(p)
 
+# result: 
 # [[0.5]]
 # [[0.5 0.5]]
 # [[0.52689414]
